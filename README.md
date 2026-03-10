@@ -1,7 +1,5 @@
 # RVA Specialist Coding Assessment
-**Candidate: Brandon Tran**
-
-**March 2026**
+**Candidate: Brandon Tran | Date: March 2026**
 
 ## Project Overview
 This repository contains the completed technical assessment for the RVA Specialist position. The project demonstrates data manipulation using `tidyverse`, clinical reporting with `gtsummary` and interactive application development using `shiny`. Data comes from the CDISC ADaM test dataset (`pharmaverseadam`).
@@ -20,7 +18,7 @@ The project is organized into independent directories for each question:
 ### How to Run Locally
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/pyragen/rva_assessment.git](https://github.com/pyragen/rva_assessment.git)
+    git clone https://github.com/pyragen/rva_assessment.git
     ```
 2.  **Open the Project**: Launch `rva_assessment.Rproj` in RStudio.
 3.  **Restore the Library**: In the R console, run:
@@ -31,6 +29,4 @@ The project is organized into independent directories for each question:
     ```R
     install.packages(c("pharmaverseadam", "tidyverse", "gtsummary", "shiny")
     ```
-5.  **Execute**: Run scripts in `question1/question_1.R`, `question2/question_2.R`, and `question3/question_3.R`.
-
-
+5.  **Execute**: Run scripts in `question1/question_1.R`, `question2/question_2.R`, and `question3/question_3.R` using the `source()` command.
