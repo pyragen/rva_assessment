@@ -5,7 +5,7 @@ The article: Cornelius, V., Cro, S. & Phillips, R. Advantages of visualisations 
 
 ## Plots comparing "Placebo" and "Xanomeline High Dose" arms
 Volcano plot:
-![Volcano Plot](exploratory_visualizations/volcano_plot.png)
+![Volcano Plot](volcano_plot.png)
 
 Dot plot:
-![Dot Plot](exploratory_visualizations/dot_rr_plot.png)
+![Dot Plot](dot_rr_plot.png)
