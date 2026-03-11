@@ -12,6 +12,8 @@ The project is organized into independent directories for each question:
 * **`question_3/`**: An interactive Shiny Dashboard.
     * **Live App**: [https://b2765h-pyragen.shinyapps.io/question3/]
     * **Source**: Contained within the `question_3/` directory.
+ 
+I also created some additional visualizations to compare Adverse Events between different treatment arms that were inspired by a scientific article I read. This was not a part of the assessment. The R code and plot outputs can be found in `exploratory_visualizations/`.
 
 ---
 
